@@ -1,2 +1,3 @@
 # Hello-world
-Repository 1
+my first project
+i am new on github learning how to operate the github platform 
